@@ -1,6 +1,11 @@
+# Compiled files
 *.exe
 *.obj
 *.o
+
+# VS Code settings
 .vscode/
+
+# Temporary communication files
 */serial_channel.txt
 */original_packet.txt
