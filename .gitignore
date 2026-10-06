@@ -1,0 +1,6 @@
+*.exe
+*.obj
+*.o
+.vscode/
+*/serial_channel.txt
+*/original_packet.txt
